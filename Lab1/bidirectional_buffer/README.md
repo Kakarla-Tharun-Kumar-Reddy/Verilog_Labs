@@ -73,7 +73,8 @@ endmodule
 ## Simulation
 
 To simulate the bidirectional buffer, the testbench toggles the `tempa`, `tempb`, and `control` signals at different intervals. The signals `a` and `b` are driven based on the value of `control`. 
-![alt text](<Screenshot 2024-08-15 234219.png>)
+
+![Screenshot 2024-08-15 234219](https://github.com/user-attachments/assets/7bd2b731-48d5-472f-ad6e-abe000806c87)
 
 ### Steps to Run Simulation:
 
